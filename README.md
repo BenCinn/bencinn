@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BenCinn</h1>
 <h3 align="center">A full-stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bencinn&label=Profile%20views&color=0e75b6&style=flat" alt="bencinn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bencinn&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bencinn" /> </p>
 
 - I’m currently working on [TeoLang](https://github.com/teolang/teo)
 
