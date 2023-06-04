@@ -14,16 +14,16 @@
 <p>
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=bencinn&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=bencinn&theme=dark&show_icons=true&rank_icon=default&include_all_commits=true&count_private=true&hide=contribs"
   media="(prefers-color-scheme: dark)"
   width="500px"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=bencinn&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=bencinn&show_icons=true&rank_icon=default&include_all_commits=true&count_private=true&hide=contribs"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   width="500px"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=bencinn&show_icons=true" width="500px" />
+<img src="https://github-readme-stats.vercel.app/api?username=bencinn&show_icons=true&rank_icon=default&include_all_commits=true&count_private=true&hide=contribs" width="500px" />
 </picture>
 </p>
 
