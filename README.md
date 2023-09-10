@@ -7,7 +7,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <s>Literary every language</s>
 <p align="left">Language: C (Arduino C/C/C++), C# (Unity C#), Rust, Bash script, Svelte (Svelte/SvelteKit), React (React/Next.js), Javascript (Vanila/Typescript), Python, Web (HTML5, CSS (TailwindCSS, Sass, Vanila)), Markdown, <s>Brainf**k</s></p>
-<p align="left">Tools: Github CI/CircleCI, Jekyll, Linux, Figma, Docker, Supabase, Notion</p>
+<p align="left">Tools: Github CI/CircleCI, Jekyll, Linux, Figma, Docker, Supabase, Notion, MongoDB</p>
 
 <p>
 <picture>
