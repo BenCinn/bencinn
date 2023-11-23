@@ -13,12 +13,12 @@
 <p>
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=bencinn&theme=dark&show_icons=true&rank_icon=default&include_all_commits=true&count_private=true&hide=contribs"
+  srcset="https://stats.quine.sh/bencinn/github?theme=dark"
   media="(prefers-color-scheme: dark)"
   width="500px"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=bencinn&show_icons=true&rank_icon=default&include_all_commits=true&count_private=true&hide=contribs"
+  srcset="https://stats.quine.sh/bencinn/github?theme=light"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   width="500px"
 />
@@ -29,12 +29,12 @@
 <p>
   <picture>
 <source
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=bencinn&theme=highcontrast"
+  srcset="https://stats.quine.sh/bencinn/languages-over-time?theme=dark"
   media="(prefers-color-scheme: dark)"
   width="500px"
 />
 <source
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=bencinn&theme=default"
+  srcset="https://stats.quine.sh/bencinn/languages-over-time?theme=light"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   width="500px"
 />
